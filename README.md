@@ -3,8 +3,7 @@ Capstone project for MSc IT in Business Data Analytics – Drug Substitute Predi
 
 Author: Fatemeh Mashayekhiahangarani
 
-# All codes and their results
+# Please click on the link below to see all codes and their results
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatemehmsh90/Business-Data-Analytics-Project/blob/main/notebooks/Drug_Substitute_Analysis_Rev02.ipynb)
 
-# See the codes and results in new window
-<a href="https://colab.research.google.com/github/fatemehmsh90/Business-Data-Analytics-Project/blob/main/notebooks/Drug_Substitute_Analysis_Rev02.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
