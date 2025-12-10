@@ -20,10 +20,6 @@ The project identifies substitute medicines by combining text embeddings, struct
 `notebooks/FINAL_IBS_PROJECT_FATEMEH.ipynb`  
 Contains the full workflow from loading data to generating embeddings, similarity matrices, clustering results, SI/SRI metrics, and final figures.
 
-### **Utilities**
-`src/utils.py`  
-Helper functions for text cleaning, embedding generation, similarity scoring, clustering, graph construction, and file saving.
-
 ### **Figures**
 Plots used in the dissertation, grouped by chapter.
 
