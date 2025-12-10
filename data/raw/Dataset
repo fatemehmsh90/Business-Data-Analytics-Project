@@ -1,1 +1,4 @@
 Because of big size dataset, GitHub don't accept to upload raw dataset here. So, I set it in my google dreive and based on my google drive I use the dataset MID 
+
+Address of main dataset: /content/drive/MyDrive/BDAP_Datasets/mid_dataset.csv
+Address of external Dataset: /content/drive/MyDrive/BDAP_Datasets/external_substitutes.csv
