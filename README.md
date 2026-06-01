@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github/fatemehmsh90/Business-Data-Analytics-Project/blob/main/FINAL_IBS_PROJECT_FATEMEH.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Drug Substitute Identification and Risk Analysis  
 ### MSc Business Data Analytics – Final Project Repository
 Author: Fatemeh Mashayekhiahangarani
